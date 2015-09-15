@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kays Dairy</string>
+    <!---HomeScreen- -->
+    <string name="home_activity">Home</string>
+    <string name="button_customers">CUSTOMERS</string>
+    <string name="button_products">PRODUCTS</string>
+    <string name="button_collecting">COLLECTING</string>
+    <string name="button_delivering">DELIVERING</string>
+
+<!---ActionBar- -->
+    <string name="action_settings">Settings</string>
+</resources>
